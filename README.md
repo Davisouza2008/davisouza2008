@@ -1,3 +1,8 @@
+Eu estou trabalhando de ajudante de pedreiro 
+Atualmente estou aprendendo sobre programação na escola 
+Ltualmente estou morando com meu irmão e meu pai e minha mãe
+
+
 ## Hi there 👋
 
 <!--
